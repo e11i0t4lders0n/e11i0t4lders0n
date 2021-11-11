@@ -10,7 +10,7 @@
 
 Hey World, I am Tushar Verma. Here's a little about me :)
 
-Tushar Verma is currently working as Application Security Engineer Intern at People Interactive(Shaadi.com) and also one of the Synack Red Team Member.He is currently doing a bachelors degree in Computer Science & Engineering with minor in DevOps. His major interests revolve around Application Security, Cloud Security & DevSecOps. He is having 2+ year of expertise in security implementations and various security assessments which includes VAPT, Application Security testing, Cloud Security, DevSecOps.
+Tushar Verma is currently working as an Application Security Engineer Intern at People Interactive(Shaadi.com) and also one of the Synack Red Team Member. He is currently doing a bachelors degree in Computer Science & Engineering with minor in DevOps. His major interests revolve around Application Security, Cloud Security & DevSecOps. He is having 2+ year of expertise in security implementations and various security assessments which includes VAPT, Application Security testing, Cloud Security, DevSecOps.
 
 ### Skills:-
 -Web Application Penetration Testing<br/>
@@ -26,6 +26,7 @@ Tushar Verma is currently working as Application Security Engineer Intern at Peo
 -Speaker at DAMNCON '21(Hacking Oauth Application)<br/>
 -Speaker at Owasp Gurugram(Bypassing Two-Factor Authenication for fun & profit)<br/>
 -Speaker at Owasp Erode(Methodologies and Approach to start Bug Bounty Hunting)<br/>
+-Speaker at HackersForYou(Bypassing 2FA)</br>
 -Speaker at Girlscript Jalandhar(Getting started in Bug Bounty)<br/>
 -Guest Speaker: Take Care of Yourself & Take Care of your Money at Lovely Professional University<br/>
 -Appreciation by Netflix For Finding Business Logic Vulnerability<br/>
