@@ -9,24 +9,25 @@
 <br/><br/>
 
 Hey World, I am Tushar Verma. Here's a little about me :)
+
 Tushar Verma is currently working as Application Security Engineer Intern at People Interactive(Shaadi.com) and also one of the Synack Red Team Member.He is currently doing a bachelors degree in Computer Science & Engineering with minor in DevOps. His major interests revolve around Application Security, Cloud Security & DevSecOps. He is having 2+ year of expertise in security implementations and various security assessments which includes VAPT, Application Security testing, Cloud Security, DevSecOps.
 
 ### Skills:-
--Web Application Penetration Testing
--Network Penetration Testing
--Mobile Application Penetration Testing (Android)
--Thick Client Penetration Testing
--Cloud & Container Configuration Review [AWS, Kubernetes & Docker]
+-Web Application Penetration Testing<br/>
+-Network Penetration Testing<br/>
+-Mobile Application Penetration Testing (Android)<br/>
+-Thick Client Penetration Testing<br/>
+-Cloud & Container Configuration Review [AWS, Kubernetes & Docker]<br/>
 
 ### Achievements:-
--Speaker at Reconvillage@DEFCON 29(The Bug Hunter's Recon Methodology)
--Speaker at GrabCON 2021(Exploiting SSRF like a boss)
--Speaker at BSides Noida Conference 2021(How to Fail at Bug Bounty Hunting)
--Speaker at DAMNCON '21(Hacking Oauth Application)
--Speaker at Owasp Gurugram(Bypassing Two-Factor Authenication for fun & profit)
--Speaker at Owasp Erode(Methodologies and Approach to start Bug Bounty Hunting)
--Speaker at Girlscript Jalandhar(Getting started in Bug Bounty)
--Guest Speaker: Take Care of Yourself & Take Care of your Money at Lovely Professional University
--Appreciation by Netflix For Finding Business Logic Vulnerability
--Appreciation by Unilever Vulnerability Disclosure Program For Finding Authentication Bypass
--Appreciation by Dell, UnderArmour, Convertkit, Cloudways, Mastercard for Finding Vulnerability
+-Speaker at Reconvillage@DEFCON 29(The Bug Hunter's Recon Methodology)<br/>
+-Speaker at GrabCON 2021(Exploiting SSRF like a boss)<br/>
+-Speaker at BSides Noida Conference 2021(How to Fail at Bug Bounty Hunting)<br/>
+-Speaker at DAMNCON '21(Hacking Oauth Application)<br/>
+-Speaker at Owasp Gurugram(Bypassing Two-Factor Authenication for fun & profit)<br/>
+-Speaker at Owasp Erode(Methodologies and Approach to start Bug Bounty Hunting)<br/>
+-Speaker at Girlscript Jalandhar(Getting started in Bug Bounty)<br/>
+-Guest Speaker: Take Care of Yourself & Take Care of your Money at Lovely Professional University<br/>
+-Appreciation by Netflix For Finding Business Logic Vulnerability<br/>
+-Appreciation by Unilever Vulnerability Disclosure Program For Finding Authentication Bypass<br/>
+-Appreciation by Dell, UnderArmour, Convertkit, Cloudways, Mastercard for Finding Vulnerability<br/>
