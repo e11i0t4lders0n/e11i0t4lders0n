@@ -10,14 +10,15 @@
 
 Hey World, I am Tushar Verma. Here's a little about me :)
 
-Tushar Verma is currently working as an Application Security Engineer Intern at People Interactive(Shaadi.com) and also one of the Synack Red Team Member. He is currently doing a bachelors degree in Computer Science & Engineering with minor in DevOps. His major interests revolve around Application Security, Cloud Security & DevSecOps. He is having 2+ year of expertise in security implementations and various security assessments which includes VAPT, Application Security testing, Cloud Security, DevSecOps.
+Tushar Verma is currently working as an Application Security Engineer Intern at People Interactive(Shaadi.com) and also one of the Synack Red Team Member. He is currently doing a bachelors degree in Computer Science & Engineering with minor in DevOps. His major interests revolve around Application Security, Cloud Security, DevOps & DevSecOps. He is having 2+ year of expertise in security implementations and various security assessments which includes VAPT, Application Security testing, Cloud Security, DevOps & DevSecOps.
 
 ### Skills:-
--Web Application Penetration Testing<br/>
+-Application Security<br/>
 -Network Penetration Testing<br/>
--Mobile Application Penetration Testing (Android)<br/>
--Thick Client Penetration Testing<br/>
--Cloud & Container Configuration Review [AWS, Kubernetes & Docker]<br/>
+-Vulnerability Assessment<br/>
+-Reconnaissance and Social Engineering<br/>
+-Cloud Security<br/>
+-DevOps and DevSecOps<br/>
 
 ### Achievements:-
 -Speaker at Reconvillage@DEFCON 29(The Bug Hunter's Recon Methodology)<br/>
@@ -27,8 +28,12 @@ Tushar Verma is currently working as an Application Security Engineer Intern at 
 -Speaker at Owasp Gurugram(Bypassing Two-Factor Authenication for fun & profit)<br/>
 -Speaker at Owasp Erode(Methodologies and Approach to start Bug Bounty Hunting)<br/>
 -Speaker at HackersForYou(Bypassing 2FA)</br>
+-Speaker at GirlScript Kurukshetra(Beginners Guide to get started in Bug bounty)<br/>
 -Speaker at Girlscript Jalandhar(Getting started in Bug Bounty)<br/>
 -Guest Speaker: Take Care of Yourself & Take Care of your Money at Lovely Professional University<br/>
+
+### Awards and Recognition
+-Appreciation by Google For Finding Sensitive Information Sensitive Data Exposure</br>
 -Appreciation by Netflix For Finding Business Logic Vulnerability<br/>
 -Appreciation by Unilever Vulnerability Disclosure Program For Finding Authentication Bypass<br/>
 -Appreciation by Dell, UnderArmour, Convertkit, Cloudways, Mastercard for Finding Vulnerability<br/>
