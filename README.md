@@ -8,7 +8,9 @@
   </a><img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="355" />
 <br/><br/>
 
-Hey World, I am Tushar Verma. Here's a little about me :)
+Who-Am-I
+
+A small town boy and a Security Engineer by passion. Here's a little about me :)
 
 Tushar Verma is currently working as an Application Security Engineer Intern at People Interactive(Shaadi.com) and also one of the Synack Red Team Member. He is currently doing a bachelors degree in Computer Science & Engineering with minor in DevOps. His major interests revolve around Application Security, Cloud Security, DevOps & DevSecOps. He is having 2+ year of expertise in security implementations and various security assessments which includes VAPT, Application Security testing, Cloud Security, DevOps & DevSecOps.
 
