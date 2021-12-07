@@ -12,7 +12,7 @@ Who-Am-I
 
 A small town boy and a Security Engineer by passion. Here's a little about me :)
 
-Tushar Verma is currently working as an Application Security Engineer Intern at People Interactive(Shaadi.com) and also one of the Synack Red Team Member. He is currently doing a bachelors degree in Computer Science & Engineering with minor in DevOps. His major interests revolve around Application Security, Cloud Security, DevOps & DevSecOps. He is having 2+ year of expertise in security implementations and various security assessments which includes VAPT, Application Security testing, Cloud Security, DevOps & DevSecOps.
+Tushar Verma is currently working as a Security Engineer Intern - (Application & Cloud Security) at People Interactive(I)Pvt. Ltd. (Shaadi.com) and also one of the Synack Red Team Member. He is currently doing a bachelors degree in Computer Science & Engineering with minor in DevOps. His major interests revolve around Application Security, Cloud Security, DevOps & DevSecOps. He is having 2+ year of expertise in security implementations and various security assessments which includes VAPT, Application Security testing, Cloud Security, DevOps & DevSecOps.
 
 ### Skills:-
 -Application Security<br/>
