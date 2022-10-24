@@ -12,15 +12,16 @@ Who-Am-I
 
 A small town boy and a Security Engineer by passion. Here's a little about me :)
 
-Tushar Verma is currently working as a Security Engineer Intern at People Interactive(I)Pvt. Ltd. (Shaadi.com) and also one of the Synack Red Team Member. He is currently doing a bachelors degree in Computer Science & Engineering with minor in DevOps. His major interests revolve around Application Security, Cloud Security, DevOps & DevSecOps. He is having 2+ year of expertise in security implementations and various security assessments which includes VAPT, Application Security testing, Cloud Security, DevOps & DevSecOps.
+Tushar Verma is currently working as a Security Engineer at People Interactive(I)Pvt. Ltd. (Shaadi.com) and also one of the Synack Red Team Member. He is currently doing a bachelors degree in Computer Science & Engineering with minor in DevOps. His major interests revolve around Application Security, Cloud Security, DevOps & DevSecOps. He is having 2+ year of expertise in security implementations and various security assessments which includes VAPT, Application Security testing, Cloud Security, DevOps & DevSecOps.
 
 ### Area of Expertise:-
--Penetration Testing: Web Application, Network<br/>
--Cloud Environment: AWS, GCP<br/>
--Containerization Tools: AWS ECS, Docker<br/>
--AWS Services: EC2, S3, CloudWatch, VPC<br/>
--Cloud Security(AWS, GCP)<br/>
--DevOps and DevSecOps<br/>
+-Application Security<br/>
+-Penetration Testing & Red Teaming<br/>
+-Cloud Operations & Security<br/>
+-DevOps & DevSecOps<br/>
+-Reconnaissance & Asset Mapping<br/>
+-Social Engineering<br/>
+-IT Security Audit<br/>
 
 ### Achievements:-
 -Speaker at Reconvillage@DEFCON 29(The Bug Hunter's Recon Methodology)<br/>
